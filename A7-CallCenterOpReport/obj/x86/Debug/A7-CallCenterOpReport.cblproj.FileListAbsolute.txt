@@ -1,0 +1,5 @@
+C:\Users\flami\Source\Repos\A7-CallCenterOpReport\A7-CallCenterOpReport\bin\x86\Debug\A7_CallCenterOpReport.exe
+C:\Users\flami\Source\Repos\A7-CallCenterOpReport\A7-CallCenterOpReport\bin\x86\Debug\Program1.idy
+C:\Users\flami\Source\Repos\A7-CallCenterOpReport\A7-CallCenterOpReport\obj\x86\Debug\A7_CallCenterOpReport.exe
+C:\Users\flami\Source\Repos\A7-CallCenterOpReport\A7-CallCenterOpReport\obj\x86\Debug\Program1.idy
+C:\Users\flami\Source\Repos\A7-CallCenterOpReport\A7-CallCenterOpReport\obj\x86\Debug\Program1.obj
